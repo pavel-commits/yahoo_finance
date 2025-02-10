@@ -1,0 +1,9 @@
+{
+  "white": true,
+  "yellow": true,
+  "green": true,
+  "description": false,
+  "shares": true,
+  "timeout": 1,
+  "cookie": 10
+}
